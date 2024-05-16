@@ -1,0 +1,8 @@
+{
+    "payment_gateway_url": "https://payment-gateway.com/api",
+    "api_key": "your-api-key",
+    "currency": "RUB",
+    "payment_success_message": "Оплата прошла успешно! Спасибо за покупку.",
+    "payment_failure_message": "Платеж не прошел. Пожалуйста, повторите попытку позже.",
+    "enable_sandbox_mode": true
+}

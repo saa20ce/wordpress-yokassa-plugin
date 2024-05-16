@@ -1,0 +1,35 @@
+/* Add your CSS styles for the payment page here */
+
+.payment-form {
+    /* Styles for the payment form */
+    margin: 20px;
+}
+
+.payment-form input {
+    /* Styles for form input fields */
+    padding: 5px;
+    margin: 5px;
+}
+
+.payment-button {
+    /* Styles for the payment button */
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.payment-success-message {
+    /* Styles for the success message after payment */
+    color: green;
+    font-weight: bold;
+}
+
+.payment-error-message {
+    /* Styles for the error message after payment failure */
+    color: red;
+    font-weight: bold;
+}
+
+/* Additional styles can be added here as needed */
