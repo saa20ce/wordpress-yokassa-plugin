@@ -3,7 +3,7 @@
  * Plugin Name: Yokassa Payment Plugin
  * Description: Оплата заказа с помощью ЮКасса
  * Version: 1.0
- * Author: gutgik
+ * Author: gutgik & PetrMiller
  */
 
 if ( ! defined( 'WPINC' ) ) {
